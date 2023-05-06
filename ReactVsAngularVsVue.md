@@ -139,6 +139,68 @@ new Vue({
 - Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
 
 
+## Speed Test
 
+### React
+
+
+## learning Curve
+
+## Code Speed
+
+## model 
+
+## start up time
+
+## data flow
+### React
+- React implements one-way data flow which makes it easy to reason about your app. Flux is a pattern that helps keeping your data unidirectional.
+
+### Angular
+- Angular uses two-way data binding, i.e. the view (UI) and the model are synchronized at all times.
+
+### Vue
+- Vue uses one-way data binding, i.e. the view (UI) -> model -> view (UI) pattern.
+
+## SEO
+
+
+## Company Uses
+### React
+- Facebook
+- Instagram
+- Netflix
+- Airbnb
+- Dropbox
+- Whatsapp
+- Reddit
+- Paypal
+- Uber
+- Walmart
+- Tesla
+- Atlassian
+
+### Angular
+- Google
+- Forbes
+- Wix
+- Upwork
+- Weather
+- Crunchbase
+- Udemy
+- Freelancer
+- iStock
+- AWS
+- Nike
+
+### Vue
+- Alibaba
+- Baidu
+- Gitlab
+- Grammarly
+- Codeship
+- Laracasts
+- EuroNews
+- Behance
 
 
