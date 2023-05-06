@@ -139,18 +139,6 @@ new Vue({
 - Vue.js is an open-source Model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.
 
 
-## Speed Test
-
-### React
-
-
-## learning Curve
-
-## Code Speed
-
-## model 
-
-## start up time
 
 ## data flow
 ### React
@@ -161,8 +149,6 @@ new Vue({
 
 ### Vue
 - Vue uses one-way data binding, i.e. the view (UI) -> model -> view (UI) pattern.
-
-## SEO
 
 
 ## Company Uses
@@ -204,3 +190,14 @@ new Vue({
 - Behance
 
 
+## SEO
+
+## Speed Test
+
+## learning Curve
+
+## Code Speed
+
+## model 
+
+## start up time
